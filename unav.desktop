@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=uNav
+Exec=qmlscene qml/Main.qml
+Icon=unav.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
